@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 const Profile = () => {
   return (
     <div className="bg-woman-over-logo bg-no-repeat bg-contain h-screen bg-right ml-24">
