@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <>
       <Head>
-        <title>Katie Ganly</title>
+        <title>Engage Online</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="" />
         {/* Raleway fonts.google */}
@@ -32,7 +32,7 @@ const Navbar = () => {
         <Link href="/">
           <img
             src="/static/images/thumbnail_icon-a.png"
-            className="h-24 w-auto ml-6 mt-6"
+            className="h-12 w-auto ml-6 mt-1"
             alt=""
           />
         </Link>{" "}
@@ -62,24 +62,24 @@ const Navbar = () => {
         >
           <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto md:mr-12">
             <Link href="/">
-              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-3 font-bold items-center justify-center text-xl ">
+              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-1 font-bold items-center justify-center text-xl ">
                 Home
               </a>
             </Link>
 
             <Link href="/about">
-              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-3 font-bold items-center justify-center text-xl">
+              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-1 font-bold items-center justify-center text-xl">
                 About us
               </a>
             </Link>
 
             <Link href="/contact">
-              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-3 font-bold items-center justify-center text-xl">
+              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-1 font-bold items-center justify-center text-xl">
                 Contact us
               </a>
             </Link>
             <Link href="/blogs">
-              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-3 font-bold items-center justify-center text-xl">
+              <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-custom-color-1 font-bold items-center justify-center text-xl">
                 Blog
               </a>
             </Link>

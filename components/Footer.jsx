@@ -29,7 +29,7 @@ const Footer = () => {
         <div className="flex flex-col items-center justify-center pt-6 md:flex-row">
           <div className="pb-6">
             <a href="#" className=" text-xl font-bold">
-              &copy;Katie Ganly 2021
+              &copy;Engage Online 2021
             </a>
           </div>
         </div>

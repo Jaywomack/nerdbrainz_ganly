@@ -23,7 +23,7 @@ const SocialIcons = () => {
         >
           <FontAwesomeIcon
             icon={["fab", "facebook"]}
-            className="text-custom-color-2 mr-3 h-10 w-10 text-white hover:scale-125"
+            className="text-custom-color-1 mr-3 h-10 w-10 text-white hover:scale-125"
           />
         </a>
       </li>
@@ -44,7 +44,7 @@ const SocialIcons = () => {
         <a href="https://youtube.com" rel="noopener" target="_blank">
           <FontAwesomeIcon
             icon={["fab", "youtube"]}
-            className="text-custom-color-2 mr-3 h-10 w-10 text-white hover:scale-125"
+            className="text-custom-color-1 mr-3 h-10 w-10 text-white hover:scale-125"
           />
         </a>
       </li>
