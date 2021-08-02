@@ -49,21 +49,7 @@ const MarketingIcons = () => {
           Public Speaking
         </h4>
         <p className="w-full overflow-hidden text-xl">
-          Get trained by elite Product Leaders{" "}
-        </p>
-      </div>
-
-      {/* // Corporate Training & Online Presentation Training */}
-      <div className="w-full overflow-hidden md:my-2 md:px-2 md:w-1/2 lg:my-3 lg:px-3 lg:w-1/4 text-center pt-10">
-        <FontAwesomeIcon
-          icon={faChalkboardTeacher}
-          className="h-20 w-20 text-black hover:scale-125 w-full overflow-hidden mx-auto text-custom-color-2"
-        />
-        <h4 className="w-full overflow-hidden mt-5 mb-3 text-2xl font-semibold">
-          Live Events & Event Planning
-        </h4>
-        <p className="w-full overflow-hidden text-xl">
-          Optimized for both in-office and distributed teams
+          Boost confidence and improve communication skills{" "}
         </p>
       </div>
 
@@ -77,7 +63,20 @@ const MarketingIcons = () => {
           Technical Support
         </h4>
         <p className="w-full overflow-hidden text-xl">
-          Certify your team to this highest standard{" "}
+          Practical blogs and resources for tried and tested techniques{" "}
+        </p>
+      </div>
+      {/* // Corporate Training & Online Presentation Training */}
+      <div className="w-full overflow-hidden md:my-2 md:px-2 md:w-1/2 lg:my-3 lg:px-3 lg:w-1/4 text-center pt-10">
+        <FontAwesomeIcon
+          icon={faChalkboardTeacher}
+          className="h-20 w-20 text-black hover:scale-125 w-full overflow-hidden mx-auto text-custom-color-2"
+        />
+        <h4 className="w-full overflow-hidden mt-5 mb-3 text-2xl font-semibold">
+          Live Events & Event Planning
+        </h4>
+        <p className="w-full overflow-hidden text-xl">
+          Online event facilitators and producers
         </p>
       </div>
     </div>
