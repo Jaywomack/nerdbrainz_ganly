@@ -35,7 +35,7 @@ const MarketingIcons = () => {
           Online Presentation Training
         </h4>
         <p className="w-full overflow-hidden text-xl">
-          Optimized for both in-office and distributed teams{" "}
+          Build leadership skills with hands on workshops and training{" "}
         </p>
       </div>
 
