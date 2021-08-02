@@ -13,17 +13,17 @@ library.add(faYoutube, faInstagram, faFacebook, faTwitter);
 
 const SocialIcons = () => {
   return (
-    <ul className="social-icons flex items-baseline justify-center text-white">
+    <ul className="social-icons flex items-baseline justify-center text-custom-color-1">
       <li>
         <a
-          className="text-white "
+          className="text-custom-color-1 "
           href="https://facebook.com"
           rel="noopener"
           target="_blank"
         >
           <FontAwesomeIcon
             icon={["fab", "facebook"]}
-            className="text-custom-color-1 mr-3 h-10 w-10 text-white hover:scale-125"
+            className="text-custom-color-1 mr-3 h-10 w-10 text-custom-color-1 hover:scale-125"
           />
         </a>
       </li>
@@ -32,11 +32,11 @@ const SocialIcons = () => {
           href="https://twitter.com"
           rel="noopener"
           target="_blank"
-          className="text-white"
+          className="text-custom-color-1"
         >
           <FontAwesomeIcon
             icon={["fab", "twitter"]}
-            className="text-custom-color-1 mr-3 h-10 w-10 text-white hover:scale-125"
+            className="text-custom-color-1 mr-3 h-10 w-10 text-custom-color-1 hover:scale-125"
           />
         </a>
       </li>
@@ -44,7 +44,7 @@ const SocialIcons = () => {
         <a href="https://youtube.com" rel="noopener" target="_blank">
           <FontAwesomeIcon
             icon={["fab", "youtube"]}
-            className="text-custom-color-1 mr-3 h-10 w-10 text-white hover:scale-125"
+            className="text-custom-color-1 mr-3 h-10 w-10 text-custom-color-1 hover:scale-125"
           />
         </a>
       </li>
@@ -52,7 +52,7 @@ const SocialIcons = () => {
         <a href="https://instagram.com" rel="noopener" target="_blank">
           <FontAwesomeIcon
             icon={["fab", "instagram"]}
-            className="text-custom-color-1 mr-3 h-10 w-10 text-white hover:scale-125"
+            className="text-custom-color-1 mr-3 h-10 w-10 text-custom-color-1 hover:scale-125"
           />
         </a>
       </li>
