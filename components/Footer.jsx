@@ -40,7 +40,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <p className="ml-2"> Powered by &copy;NerdBrainz 2021</p>
+            <p className="ml-2 mb-3"> Powered by &copy;NerdBrainz 2021</p>
           </a>
         </div>
       </div>
