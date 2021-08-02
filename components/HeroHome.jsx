@@ -5,7 +5,7 @@ const HeroHome = () => {
     <header className="bg-hero-pattern z-0 min-h-screen bg-no-repeat bg-cover">
       {/* <Navbar /> */}
 
-      <div className="flex flex-wrap content-center  justify-center h-screen ">
+      <div className="flex flex-wrap content-center  justify-center h-screen">
         <div>
           <h1 className="text-5xl font-bold text-white text-center pb-3">
             Communication Management{" "}

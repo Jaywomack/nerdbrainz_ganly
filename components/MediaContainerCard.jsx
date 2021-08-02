@@ -2,11 +2,9 @@ const MediaContainerCard = () => {
   return (
     <div class="min-h-96 flex flex-wrap overflow-hidden">
       {/* h3 and p */}
-      <div class="w-full overflow-hidden md:w-1/2 px-12">
+      <div class="w-full overflow-hidden md:w-1/2 px-12 ">
         <div class="mb-8">
-          <div class="text-custom-color-1 font-bold text-5xl pb-24">
-            Katie Ganly
-          </div>
+          <div class="text-custom-color-1 font-bold text-5xl ">Katie Ganly</div>
           <p class="text-gray-700 text-custom-color-2  text-xl font-bold pb-12">
             A solutions focussed people person whose favourite word is
             "excellence". If it can be done better, doesn't everyone want to

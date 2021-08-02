@@ -14,9 +14,9 @@ const About = () => {
           />
         </div>
         {/* h3 and p */}
-        <div class="w-full overflow-hidden md:w-1/2 px-12">
+        <div class="w-full overflow-hidden md:w-1/2  px-12">
           <div class="mb-8">
-            <div class="text-custom-color-1 font-bold text-5xl pb-24">
+            <div class="text-custom-color-1 font-bold text-5xl pb-24 sm:text-center">
               Katie Ganly
             </div>
             <p class="text-gray-700 text-custom-color-2  text-xl font-bold pb-12">

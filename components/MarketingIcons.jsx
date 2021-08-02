@@ -23,7 +23,7 @@ library.add(
 
 const MarketingIcons = () => {
   return (
-    <div className="flex flex-wrap overflow-hidden md:-mx-2 lg:-mx-3 h-74  content-center py-24 mb-24  border-b-2 border-custom-color-2 bg-custom-color-2 mt-44 mb-44">
+    <div className="flex flex-wrap overflow-hidden  md:-mx-2 lg:-mx-3 h-74  content-center py-24 mb-24  border-b-2 border-custom-color-2 bg-custom-color-2 mt-0 mb-12 lg:mt-44 lg:mb-44">
       {/* // Live Events & Event Planning */}
 
       <div className="w-full overflow-hidden md:my-2 md:px-2 md:w-1/2 lg:my-3 lg:px-3 lg:w-1/4 text-center pt-10">
